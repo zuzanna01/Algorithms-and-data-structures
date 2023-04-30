@@ -1,0 +1,72 @@
+[
+     {
+          "amount": 1000,
+          "quick result": 0.0,
+          "selection result": 0.03125,
+          "merge result": 0.015625,
+          "bubble result": 0.078125
+     },
+     {
+          "amount": 2000,
+          "quick result": 0.0,
+          "selection result": 0.140625,
+          "merge result": 0.015625,
+          "bubble result": 0.296875
+     },
+     {
+          "amount": 3000,
+          "quick result": 0.0,
+          "selection result": 0.265625,
+          "merge result": 0.046875,
+          "bubble result": 0.71875
+     },
+     {
+          "amount": 4000,
+          "quick result": 0.015625,
+          "selection result": 0.4375,
+          "merge result": 0.078125,
+          "bubble result": 1.359375
+     },
+     {
+          "amount": 5000,
+          "quick result": 0.015625,
+          "selection result": 0.71875,
+          "merge result": 0.09375,
+          "bubble result": 2.015625
+     },
+     {
+          "amount": 6000,
+          "quick result": 0.03125,
+          "selection result": 1.046875,
+          "merge result": 0.171875,
+          "bubble result": 2.71875
+     },
+     {
+          "amount": 7000,
+          "quick result": 0.03125,
+          "selection result": 1.421875,
+          "merge result": 0.21875,
+          "bubble result": 3.59375
+     },
+     {
+          "amount": 8000,
+          "quick result": 0.03125,
+          "selection result": 1.75,
+          "merge result": 0.234375,
+          "bubble result": 4.71875
+     },
+     {
+          "amount": 9000,
+          "quick result": 0.03125,
+          "selection result": 2.265625,
+          "merge result": 0.296875,
+          "bubble result": 6.125
+     },
+     {
+          "amount": 10000,
+          "quick result": 0.046875,
+          "selection result": 2.78125,
+          "merge result": 0.375,
+          "bubble result": 7.5
+     }
+]
